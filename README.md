@@ -6,7 +6,7 @@
 - 🌱 I’m currently *brushing up on*: **Data Structures & Algorithms** through [InterviewCake](https://InterviewCake.com) and [LeetCode](https://LeetCode.com)
   * Here's my [script to get links & info for LeetCode problems](https://github.com/chelseanbr/get_leetcode_problems)!💡
 - 📫 How to reach me: 
-  * **[LinkedIn](https://LinkedIn.com/chelseanbr)**
+  * **[LinkedIn](https://linkedin.com/in/chelseanbr)**
   * Email: **chelseanbr@gmail.com**
   
 <h2>Check out my <a href=https://chelseanbr.com>portfolio</a> 🗂</h2>
