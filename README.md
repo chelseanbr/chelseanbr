@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
   * [LinkedIn](LinkedIn.com/chelseanbr)
   * Email: chelseanbr@gmail.com
+  
 <--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
