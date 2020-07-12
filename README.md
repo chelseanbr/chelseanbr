@@ -1,5 +1,5 @@
 # Welcome! 👋
-
+<h2>Check out my <a href=https://chelseanbr.com>portfolio</a> 🗂</h2>
 - 💖 My passions are **Data Science & Machine Learning**
 - 💻 Latest *featured project:* **[Airbnb review sentiment classifier](https://github.com/chelseanbr/between-the-lines-hotels)**
   * Featured Technologies: AWS EC2 | Docker | Flask | TensorFlow/Keras | NLTK | Scikit-Learn | BeautifulSoup4
@@ -14,9 +14,7 @@
 - 📫 How to reach me: 
   * Connect with me on **[LinkedIn](https://linkedin.com/in/chelseanbr)**
   * Email me at **chelseanbr@gmail.com**
-  
-<h2>Check out my <a href=https://chelseanbr.com>portfolio</a> 🗂</h2>
-
+ 
 ### Thanks for visiting! 🤗
 
 <!--
