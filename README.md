@@ -1,12 +1,12 @@
 # Welcome! 👋
 
-- 🔭 I’m currently working on: **a Honolulu restaurant recommender!**
-- ⚡ Fun fact: **I'm from Honolulu, Hawai'i.**
+- 🔭 I’m currently working on: **A Honolulu restaurant recommender!**
+- ⚡ Fun fact: **I'm from Honolulu, Hawai'i 🌴**
 - 📫 How to reach me: 
-  * [LinkedIn](LinkedIn.com/chelseanbr)
-  * Email: chelseanbr@gmail.com
+  * **[LinkedIn](LinkedIn.com/chelseanbr)**
+  * Email: **chelseanbr@gmail.com**
   
-<--
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
