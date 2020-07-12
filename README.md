@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: **[A Honolulu restaurant recommender!](https://github.com/chelseanbr/hon-eats-recommender)**
 - ⚡ Fun fact: **I'm from Honolulu, Hawai'i 🌴**
 - 🌱 I’m currently *brushing up on*: **Data Structures & Algorithms** through [InterviewCake](https://InterviewCake.com) and [LeetCode](https://LeetCode.com)
-  * Here's my [script to get links & info for LeetCode problems](https://github.com/chelseanbr/get_leetcode_problems)!💡
+  * <h3>Here's my <a href=https://github.com/chelseanbr/get_leetcode_problems>script to get links & info for LeetCode problems</a>!💡</h3>
 - 📫 How to reach me: 
   * Connect with me on **[LinkedIn](https://linkedin.com/in/chelseanbr)**
   * Email me at **chelseanbr@gmail.com**
