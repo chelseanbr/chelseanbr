@@ -18,8 +18,7 @@
   * Email me at **chelseanbr@gmail.com**
  
 ### Thanks for visiting! 🤗
-![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
