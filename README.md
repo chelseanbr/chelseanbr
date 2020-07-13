@@ -18,7 +18,7 @@
   * Email me at **chelseanbr@gmail.com**
  
 ### Thanks for visiting! 🤗
-
+![image title](https://rushter.com/counter.svg)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
