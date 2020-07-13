@@ -5,9 +5,6 @@
 - 💻 Latest *featured project:* **[Airbnb review sentiment classifier](https://github.com/chelseanbr/between-the-lines-hotels)**
   * Featured Technologies: AWS EC2 | Docker | Flask | TensorFlow/Keras | NLTK | Scikit-Learn | BeautifulSoup4
   * **Check out the [Web App](https://tinyurl.com/rating-predictor)!**
-  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  
 - 🔭 I’m currently working on: **[a Honolulu restaurant recommender](https://github.com/chelseanbr/hon-eats-recommender)!**
 - ⚡ Fun fact: **I'm from Honolulu, Hawai'i 🌴**
 - 🌱 I’m currently *brushing up on*: **Data Structures & Algorithms** with [LeetCode](https://LeetCode.com)
