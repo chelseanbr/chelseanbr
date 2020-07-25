@@ -18,9 +18,3 @@
   * Email me at **chelseanbr@gmail.com**
  
 ### Thanks for visiting! 🤗
-
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
