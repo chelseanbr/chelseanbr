@@ -7,7 +7,7 @@
   * **Check out the [Web App](https://tinyurl.com/rating-predictor)!**
 - 🔭 I’m currently working on: **[a Honolulu restaurant recommender](https://github.com/chelseanbr/hon-eats-recommender)!**
 - ⚡ Fun fact: **I'm from Honolulu, Hawai'i 🌴**
-- 🌱 I’m currently *brushing up on*: **Data Structures & Algorithms** with [LeetCode](https://LeetCode.com)
+- 🌱 I’m currently *brushing up on*: **Data Structures & Algorithms** with [LeetCode](https://LeetCode.com) and [Elements of Programming Interviews in Python](https://github.com/chelseanbr/EPIJudge-chelsea)
   * <h4>Here's my <a href=https://github.com/chelseanbr/get_leetcode_problems>script to get links & info for LeetCode problems</a>!💡</h3>
   
 - 👯 I’m looking to collaborate on: 
